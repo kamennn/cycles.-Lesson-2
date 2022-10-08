@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        //задача первая//
+        //задача первая
         double accumulationWithPercent = 0;
         double accumulation = 15000;
         double Percent = 0.05;
