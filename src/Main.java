@@ -60,9 +60,9 @@ public class Main {
                 System.out.println(n);
             }
             //задача вторая //
+        }
             for (int h = 1; h <= 10; h++) {
                 System.out.println("2 * " + h + " = " + 2 * h);
             }
         }
     }
-}
